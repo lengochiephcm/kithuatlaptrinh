@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "MANG.C": "cpp",
+        "chrono": "cpp",
+        "iostream": "cpp"
+    }
+}
